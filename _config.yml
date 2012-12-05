@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://gpcowling.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: PCS Quorum Branch
+subtitle: For members of the PCS union.
+author: PCS Quorum
 simple_search: http://google.com/search
-description:
+description: A website for members of the Quorum branch of the Public and Commercial Services Union.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: pcsquorum
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
