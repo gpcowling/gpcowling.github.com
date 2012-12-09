@@ -66,7 +66,7 @@ Working alongside management, the committee is here to look after the health, sa
 
 **H&S Coordinator** Sam Bowie
 
-**H&S Reps** Phil Harbertson, Lorna Shelly, Jill Rossiter, Mark Barber, John Smith and Peter Dodsworth
+**H&S Reps** Phil Harbertson, Lorna Shelly, Jill Rossiter, Mark Barber, John Smith, Peter Dodsworth and Phil Allen.
 
 Get involved
 ------------
