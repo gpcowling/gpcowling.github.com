@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: news | PCS Quorum Branch]]></title>
-  <link href="http://gpcowling.github.com/blog/categories/news/atom.xml" rel="self"/>
-  <link href="http://gpcowling.github.com/"/>
-  <updated>2013-08-29T11:23:31+01:00</updated>
-  <id>http://gpcowling.github.com/</id>
+  <link href="http://www.pcsquorum.org.uk/blog/categories/news/atom.xml" rel="self"/>
+  <link href="http://www.pcsquorum.org.uk/"/>
+  <updated>2013-08-29T11:34:10+01:00</updated>
+  <id>http://www.pcsquorum.org.uk/</id>
   <author>
     <name><![CDATA[PCS Quorum]]></name>
     
@@ -14,21 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Final Learning at Work Day]]></title>
-    <link href="http://gpcowling.github.com/blog/2013/08/29/final-learning-at-work-day/"/>
-    <updated>2013-08-29T11:18:00+01:00</updated>
-    <id>http://gpcowling.github.com/blog/2013/08/29/final-learning-at-work-day</id>
-    <content type="html"><![CDATA[<p>Next Wednesday 4 September is the final Learning at Work Day for our branch. The event will be held throughout the day in Quorum 4, and time will be allocated for everyone to attend and have a look at the stalls. We have a number of learning providers coming along, as well as other companies.</p>
-
-<p>We hope to make this, our last event a big success before the office closes. Our learning team look forward to seeing you all on the day.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[January Update]]></title>
-    <link href="http://gpcowling.github.com/blog/2013/01/10/january-update/"/>
+    <link href="http://www.pcsquorum.org.uk/blog/2013/01/10/january-update/"/>
     <updated>2013-01-10T07:23:00+00:00</updated>
-    <id>http://gpcowling.github.com/blog/2013/01/10/january-update</id>
+    <id>http://www.pcsquorum.org.uk/blog/2013/01/10/january-update</id>
     <content type="html"><![CDATA[<p>There has been a lot of activity in the group around Christmas, much of which is relevant to us at Quorum.</p>
 
 <h2>Extension to FTA Contracts &amp; Increase in Hours for Permanent Staff</h2>
@@ -53,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[Decisions made on national campaign]]></title>
-    <link href="http://gpcowling.github.com/blog/2012/12/14/decisions-made-on-national-campaign/"/>
+    <link href="http://www.pcsquorum.org.uk/blog/2012/12/14/decisions-made-on-national-campaign/"/>
     <updated>2012-12-14T11:49:00+00:00</updated>
-    <id>http://gpcowling.github.com/blog/2012/12/14/decisions-made-on-national-campaign</id>
+    <id>http://www.pcsquorum.org.uk/blog/2012/12/14/decisions-made-on-national-campaign</id>
     <content type="html"><![CDATA[<p>The union has issued a branch briefing reporting back from a recent meeting of the National Executive Committee detailing decisions made on the ongoing campaign.</p>
 
 <p>The NEC has agreed plans for a campaign focusing on pay and conditions. They will be writing to employers setting out our demands and calling for negotiations.</p>
@@ -76,18 +65,18 @@
   
   <entry>
     <title type="html"><![CDATA[Action agreed to end pay freeze and defend working conditions]]></title>
-    <link href="http://gpcowling.github.com/blog/2012/12/07/action-agreed-to-end-pay-freeze-and-defend-working-conditions/"/>
+    <link href="http://www.pcsquorum.org.uk/blog/2012/12/07/action-agreed-to-end-pay-freeze-and-defend-working-conditions/"/>
     <updated>2012-12-07T10:55:00+00:00</updated>
-    <id>http://gpcowling.github.com/blog/2012/12/07/action-agreed-to-end-pay-freeze-and-defend-working-conditions</id>
+    <id>http://www.pcsquorum.org.uk/blog/2012/12/07/action-agreed-to-end-pay-freeze-and-defend-working-conditions</id>
     <content type="html"><![CDATA[<p>All members are encouraged to <a href="http://www.pcs.org.uk/en/news_and_events/pcs_comment/index.cfm/id/CFB14EC5-BC50-4894-BE33B2DC119F878A">read the latest update on the PCS website</a> regarding the ongoing campaign.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Fairer alternative to rip off loans]]></title>
-    <link href="http://gpcowling.github.com/blog/2012/12/06/fairer-alternative-to-rip-off-loans/"/>
+    <link href="http://www.pcsquorum.org.uk/blog/2012/12/06/fairer-alternative-to-rip-off-loans/"/>
     <updated>2012-12-06T14:57:00+00:00</updated>
-    <id>http://gpcowling.github.com/blog/2012/12/06/fairer-alternative-to-rip-off-loans</id>
+    <id>http://www.pcsquorum.org.uk/blog/2012/12/06/fairer-alternative-to-rip-off-loans</id>
     <content type="html"><![CDATA[<p>As Christmas is approaching, we know a lot of our members will be counting the cost. As we have effectively been in a pay freeze for some years now, and below inflation rises even before that, many PCS members are finding it hard to meet rising costs.</p>
 
 <p>PCS has recently launched a credit union which offers a new alternative to members wishing to save and take out low cost loans, without having to resort to high interest providers on the high street. The credit union is not looking to maximise its profits, like the big banks, but to serve the needs of its members.</p>
@@ -116,6 +105,22 @@
 <p>All savings are fully protected by the FSA.</p>
 
 <p>You can get more information or <a href="http://www.pcs.org.uk/en/about_pcs/pcs_credit_union/index.cfm">join the credit union on the PCS website</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PCS responds to the chancellor's autumn statement]]></title>
+    <link href="http://www.pcsquorum.org.uk/blog/2012/12/05/pcs-responds-to-the-chancellors-autumn-statement/"/>
+    <updated>2012-12-05T15:54:00+00:00</updated>
+    <id>http://www.pcsquorum.org.uk/blog/2012/12/05/pcs-responds-to-the-chancellors-autumn-statement</id>
+    <content type="html"><![CDATA[<p>This afternoon's statement from George Osborne to the House of Commons was met with a <a href="http://www.pcs.org.uk/en/news_and_events/news_centre/index.cfm/id/1E321E19-22DE-4F7B-BC63345A68C226C4">strong response from the PCS general secretary</a> Mark Serwotka:</p>
+
+<!-- more -->
+
+
+<blockquote><p>"It is glaringly obvious that not only is the millionaire chancellor George Osborne wildly out of touch with the lives of millions of people in this country, but also that his economic plans are miles off course."</p></blockquote>
+
+<p>For more information on the union's campaigns against the cuts you can visit the PCS website at <a href="http://www.pcs.org.uk/">www.pcs.org.uk</a>.</p>
 ]]></content>
   </entry>
   
