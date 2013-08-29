@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: news, | PCS Quorum Branch]]></title>
+  <link href="http://gpcowling.github.com/blog/categories/news-/atom.xml" rel="self"/>
+  <link href="http://gpcowling.github.com/"/>
+  <updated>2013-08-29T11:08:36+01:00</updated>
+  <id>http://gpcowling.github.com/</id>
+  <author>
+    <name><![CDATA[PCS Quorum]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Nominations close in branch elections]]></title>
+    <link href="http://gpcowling.github.com/blog/2013/02/08/nominations-close-in-branch-elections/"/>
+    <updated>2013-02-08T09:40:00+00:00</updated>
+    <id>http://gpcowling.github.com/blog/2013/02/08/nominations-close-in-branch-elections</id>
+    <content type="html"><![CDATA[<p>Nominations were requested in January to fill positions in our annual branch elections, and to elect delegates from our branch to the PCS Conference in May. Nominations have now closed, and all positions were filled uncontested. We would like to welcome all newcomers to the branch. You can <a href="/about">see a full list of your reps on the About page</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
