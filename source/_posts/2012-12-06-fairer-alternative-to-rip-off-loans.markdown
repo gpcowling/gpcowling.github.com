@@ -3,7 +3,7 @@ layout: post
 title: "Fairer alternative to rip off loans"
 date: 2012-12-06 14:57
 comments: false
-categories: news 
+categories: [news] 
 ---
 As Christmas is approaching, we know a lot of our members will be counting the cost. As we have effectively been in a pay freeze for some years now, and below inflation rises even before that, many PCS members are finding it hard to meet rising costs.
 
