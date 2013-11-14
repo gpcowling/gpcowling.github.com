@@ -4,7 +4,7 @@
 
 url: http://www.pcsquorum.org.uk
 title: PCS Quorum Branch
-subtitle: For members of the PCS union in Newcastle.
+subtitle: For members of the Quorum Branch at Benton Park View.
 author: PCS Quorum
 simple_search: http://google.com/search
 description: For members of the Quorum branch of the Public and Commercial Services Union in Newcastle upon Tyne.
@@ -64,10 +64,10 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: pcsquorum
+twitter_user:
 twitter_tweet_count: 4
 twitter_show_replies: false
-twitter_follow_button: true
+twitter_follow_button: false
 twitter_show_follower_count: false
 twitter_tweet_button: true
 

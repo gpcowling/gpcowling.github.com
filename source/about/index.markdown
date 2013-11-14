@@ -9,7 +9,7 @@ footer: false
 Who we are
 ----------
 
-Quorum branch has represented members of the Public and Commercial Services Union at the contact centre since its opening in 2004.
+Quorum branch has represented members of the Public and Commercial Services Union at the contact centre since its opening in 2004. Since the closure of the Quorum site, we have since been located at Benton Park View, and are continuing to represent members of the Quorum office as a functioning branch.
 
 Our branch consists of trained representatives who provide support, advice and representation on workplace issues, working in partnership with management where possible to resolve issues quickly and effectively on your behalf.
 
@@ -28,21 +28,19 @@ Every PCS branch consists of elected officers and a Branch Executive Committee (
 
 **Organiser** Alex Rutherford
 
-**Treasurer** Stephen Black
+**Vice-Chair** Graeme Cowling
 
-**Women's** Simone Lampon
+**Treasurer** Micky Lee
 
-**Young Member's** John Walton
+**Women's** Caroline Mair
+
+**Young Member's** Anthony Owens
 
 ### The Branch Executive
-
-Micky Lee
 
 Samantha Bowie
 
 Phil Green
-
-Graeme Cowling
 
 John Smith
 
@@ -52,13 +50,17 @@ Phil Harbertson
 
 Richard Jenkings
 
+Jill Rossiter
+
+Phil Allen
+
 ### Learning
 
-The branch is committed to promoting lifelong learning, and the learning team are able to provide information, advice and guidance on all aspects of learning and training. We have an on site learning centre for your use, and reps are available there to discuss your needs. The learning centre is on the ground floor.
+The branch is committed to promoting lifelong learning, and the learning team are able to provide information, advice and guidance on all aspects of learning and training. Our current contacts for learning are:
 
-**Learning Coordinator** Simone Lampon
+**Learning Coordinator** Becky Robinson
 
-**Learning Reps** John Walton, Phillip Green, Nathan Dalgarno, Caroline Mair, Kieran Smith and Simon Rogerson
+**Learning Reps** Phillip Green, Nathan Dalgarno, Caroline Mair, Victor Akhigbe
 
 ### Health and Safety
 
